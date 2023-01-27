@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Daria Merkulova](https://up.htmlacademy.ru/htmlcss/36/user/2316831).
-* Наставник: `Антон Варнавский` https://htmlacademy.ru/profile/id223468.
+* Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/id223468.)
 
 ---
 
